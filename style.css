@@ -1,0 +1,65 @@
+body{
+    background-image: url(https://images.hdqwalls.com/wallpapers/iron-man-2020-avengers-suit-ho.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 2%;
+    margin-right: 45%;
+    margin-top: 5%;
+}
+#main{
+    padding: 10px;
+}
+#main h1{
+    color: goldenrod;
+    font-size: 40px;
+    font-family:cursive
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 2px 2px aqua;
+
+}
+img{
+    padding: 10px;
+    display: block;
+    margin:auto
+}
+figcaption{
+    margin: 10px;
+    color: white;
+    text-align: center;
+    border: 1px solid blanchedalmond;
+    font-size: 25px;
+}
+
+#special{
+    background-color:rgba(240, 248, 255, 0.600);
+    box-shadow: 15px 15px 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 3px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+h2{
+    color: darkblue ;
+    font-weight: 600px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 10px;
+    /* text-decoration: underline wavy black; */
+}
+div p{
+    font-size: 18px;
+    color:black;
+    font-weight:550;
+    text-align: justify;
+    border: 1px solid darkblue;
+}
+#conclude{
+    margin: 30px;
+    background-color: aqua;
+}
+a:hover{
+    border: 2px solid yellow;
+}
